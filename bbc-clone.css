@@ -1,0 +1,228 @@
+<style type="text/css">
+        
+        #topbar{
+            width: 1200px;
+            height:40px;
+            margin: 0 auto;
+        }
+        
+        .topbarsection{
+            border-left: 1px #CCCCCC solid;
+            height: 100%;
+            float: left;;
+        }
+        
+        #bbc_logo{
+            height: 25px;
+            margin-top:8px;
+            float: left;
+            margin-right: 15px;
+        }
+        
+        #signin_img{
+            height: 25px;
+            margin: 9px;
+            float: left;    
+        }
+        
+        #signin_text{
+            position: relative;
+            top: 13px;
+            font-weight: bold;
+            margin-right: 60px;
+        }
+        
+        .topbarmenu{
+            font-weight: bold;
+            padding: 13px 14px 0px 14px;
+            height: 27px;
+            font-size: 90%;
+            float: left;
+        }
+        
+        #search_box{
+            background-color: #E4E4E4;
+            margin: 10px 0px 10px 13px;
+            float: left;
+        }
+        
+        #search_icon{
+            height: 20px;
+            margin-top: 10px;
+        }
+        
+        body{
+            margin:0;
+            font-family: Helvetica,freesans,sans-serif;
+        }
+        
+        .clear-float{
+            clear: both;
+        }
+        
+        #menu-bar-container{
+            border-top: 1px solid #CCCCCC;
+            background-color: #BB1919;
+            height: 70px;
+            width: 100%;
+           
+        }
+        
+        #menu-bar{
+            
+            height: 70px;
+            width: 1200px;
+            margin: 0 auto;
+            
+        }
+        
+        h1{
+            
+            color: white;
+            font-size: 40px;
+            font-weight: normal;
+            padding-top: 10px;
+            margin: 0;
+            float: left;
+        }
+        #local-news{
+            float: right;
+            margin-top: 20px; 
+            border: 1px #BB4545 solid;
+            width: 180px;
+            padding-left: 15px;
+        }
+        
+        #local-news a{
+            color: white;
+            text-decoration: none;
+            font-size: 20px
+            position:relative;
+            top: -10px;
+        }
+        
+         #local-news a:hover{
+            text-decoration:underline;
+        }
+        
+        #local-news img{
+            
+            height: 20px;
+            margin-top: 7px;
+        }
+        
+        #menu-bar-container2{
+            background-color: #A91717;
+            width: 100%;
+           
+            
+        }
+        
+        #menu-bar2{
+            width: 1200px;
+            height: 45px;
+            margin: 0 auto;
+        }
+        
+        #menu-bar2 a{
+            color: white;
+            text-decoration: none;
+            font-size: 17px;
+            padding: 0px 10px 0px 10px;
+            position: relative;
+            top:10px;
+            border-right: 1px solid #BB4545;
+        }
+        
+        #menu-bar2 a:hover{
+            text-decoration: underline;
+        }
+        
+        .no-border{
+            border: none !important;
+        }
+        
+        #page-container{
+            width: 1200px;
+            margin: 0 auto;
+        }
+        
+        #main-article{
+            border-right: 1px solid #CCCCCC;
+            width:720px;
+            float: left;
+        }
+        
+        h2{
+            border-bottom: 4px solid #a91717;
+            width:135px;
+            
+        }
+        
+        h3{
+            font-size: 30px;
+            
+        }
+        
+        h3 a{
+            text-decoration: none;
+            color: black;
+        }
+        
+        h3 a:hover{
+            color:#1167a8;
+        }
+        
+        #article-summary{
+            width: 250px;
+            float: left;
+        }
+        
+        #tech-link{
+            border-left: 1px solid  #CCCCCC;
+            position: relative;
+            left: 10px;
+            padding-left: 10px;
+            text-decoration: none;
+            color:#a91717;
+        }
+        #article-summary a:hover{
+            color:#1167a8;
+        }
+        
+        #main-article-hr{
+            width:70px;
+            border-top: 1px solid #a91717;
+            
+        }
+        .article-link{
+            color:black;
+            text-decoration: none;
+        }
+        #watch-listen{
+           width: 450px;
+           float: right;
+           
+           
+        }
+        h4{
+           
+            font-weight: normal;
+            font-size: 30px;
+            margin-top: 20px;
+        }
+        .watch-side-image{
+            width: 150px;
+            float: left;
+            margin-right: 10px;
+        }
+        .watch-link{
+            color:black;
+            text-decoration: none;
+        }
+        #watch-listen a:hover{
+            color:#1167a8
+        
+        }
+        
+    </style>
